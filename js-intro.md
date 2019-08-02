@@ -54,7 +54,8 @@ Answer the following questions. First, without external resources. Challenge you
 
 8. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
 
-  Your answer:
+  Your answer: 
+  https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
 
   Researched answer:
 
