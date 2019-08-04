@@ -70,18 +70,18 @@ Answer the following questions. First, without external resources. Challenge you
   
   JavaScript makes the internet work, along with HTML & CSS. It is a very dynamic and continously evolving programming language that allows us to have the interactivity with websites that we currently do. 
 
-  Researched answer: JS is a scripting language that makes our websites more complex and dynamic. It is what allows us to provide sites with content updates, interactive maps, 2D/3D graphics, and etc. It is also a continously evolving programming language 
+  Researched answer: JS is a scripting language that makes our websites more complex and dynamic. It is what allows us to provide sites with content updates, interactive maps, 2D/3D graphics, and etc. It is also a continously evolving programming language that will continue to play an important role in the future of web development. 
 
 
 9. Give a brief description of proper pair programming techniques. What are the rolls of each person?
 
   Your answer: Driver and Navigator. 
 
-  Researched answer: 
+  Researched answer: In pair programming, the driver is the programmer writing the code, listening carefully to the navigators indications. The navigator communicates what code to write while also keeping an eye out for syntax errors. 
 
 
 10. What is one thing we did in class this week you found helpful?  
 
-  Your answer:
+  Your answer: Pair programming has been very helpful when learning how to solve the different types of problems we are tasked with. Being able to use two heads instead of one when is tremendously useful when coming across a problem that I might have the first steps toward solving but that might require more insight from my partner to completely figure out. 
 
   Researched answer:
