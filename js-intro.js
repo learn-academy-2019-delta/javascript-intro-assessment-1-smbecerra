@@ -88,7 +88,7 @@ var myMessage = "Learning is fun!"
 
     function eachLearningLetter() {
         for(let i = 0; i < myMessage.length; i++){
-            return myMessage.split().join()
+            return myMessage.split(' ').join()
         }
     }
     console.log(eachLearningLetter())
@@ -98,7 +98,7 @@ var myMessage = "Learning is fun!"
         let i = 0;
         while (i < myMessage.length){
             i++
-            return myMessage.split().join()
+            return myMessage.split(' ').join()
             
         }
     }
