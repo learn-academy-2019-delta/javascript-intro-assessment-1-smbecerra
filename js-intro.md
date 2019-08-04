@@ -44,38 +44,40 @@ Answer the following questions. First, without external resources. Challenge you
 
 5. Explain the difference between accessor and mutator methods. Provide an example of each.
 
-  Your answer:
+  Your answer: A mutator method changes the state of an object, the accessor fetches these changes. 
 
-  Researched answer:
+  Researched answer: An accessor accesses private data stored within an object. A mutator is a method with a public level of accessibility used to control and change the value of a private member of a class. 
 
 
 6. Explain the difference between console.log() and return.
 
-  Your answer:
+  Your answer: console.log() allows the programmer to see the output of the code within the console. Return ends a statement of code. 
 
-  Researched answer:
+  Researched answer: Return does not appear in the console, it simply ends a code loop. console.log() is for the programmer to see the output of code within the console. 
 
 
 7. In regards to functions, what is an argument? What is the difference between an argument and a variable?
 
-  Your answer:
+  Your answer: A variable is stored data, it is dynamic. An argument is a placeholder (or placeholders) for instructions. 
 
-  Researched answer:
+  Researched answer: An argument is values passed on to the function when it is invoked. 
 
 
 8. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
 
   Your answer: 
-  https://i.kym-cdn.com/entries/icons/oriinal/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
+  https://i.kym-cdn.com/entries/icons/oriinal/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg.
+  
+  JavaScript makes the internet work, along with HTML & CSS. It is a very dynamic and continously evolving programming language that allows us to have the interactivity with websites that we currently do. 
 
-  Researched answer:
+  Researched answer: JS is a scripting language that makes our websites more complex and dynamic. It is what allows us to provide sites with content updates, interactive maps, 2D/3D graphics, and etc. It is also a continously evolving programming language 
 
 
 9. Give a brief description of proper pair programming techniques. What are the rolls of each person?
 
-  Your answer:
+  Your answer: Driver and Navigator. 
 
-  Researched answer:
+  Researched answer: 
 
 
 10. What is one thing we did in class this week you found helpful?  
